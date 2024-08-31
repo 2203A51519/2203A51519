@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**2203A51519/2203A51519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*VARSHITHA SARVU/2203A51519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
